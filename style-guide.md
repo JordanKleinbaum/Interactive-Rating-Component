@@ -19,7 +19,12 @@ The designs were created to the following widths:
 - Light Grey: hsl(217, 12%, 63%)
 - Medium Grey: hsl(216, 12%, 54%)
 - Dark Blue: hsl(213, 19%, 18%)
+- Darker Blue: hsl(213, 20%, 22%);
 - Very Dark Blue: hsl(216, 12%, 8%)
+
+### URL
+
+- Link Blue: hsl(228, 47%, 61%)
 
 ## Typography
 
